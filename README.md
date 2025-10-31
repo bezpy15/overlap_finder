@@ -1,2 +1,0 @@
-# overlap_finder
--
